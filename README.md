@@ -17,7 +17,6 @@
 - [ابزارهای اندازه‌گیری و مانیتورینگ](#7-ابزارهای-اندازه‌گیری-و-مانیتورینگ)
 - [راهکارهای کاهش Latency](#8-راهکارهای-کاهش-latency)
 - [نمونه کد اندازه‌گیری Latency](#9-نمونه-کد-اندازه‌گیری-latency)
-  
 - [منابع بیشتر](#10-منابع-بیشتر)
 
 ---
@@ -250,7 +249,7 @@ async def add_latency_header(request: Request, call_next):
 
 ---
 
----
+
 
 ## 10. منابع بیشتر
 
@@ -259,5 +258,8 @@ async def add_latency_header(request: Request, call_next):
 - [Cloudflare Learning Center - Latency](https://www.cloudflare.com/learning/performance/glossary/what-is-latency/)
 - [Grafana k6 Documentation](https://k6.io/docs/)
 
----
+
+
+
+
 
